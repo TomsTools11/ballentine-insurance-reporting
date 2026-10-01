@@ -9,6 +9,7 @@ GOAL reporting for **Ballentine Insurance Group**, deployed as a static site on 
 | `index.html` | GOAL Reports |
 | `reports/mo-auto-campaign-configuration-2026-09-23.html` | MO Auto Campaign Configuration 2026-09-23 |
 | `reports/mo-home-campaign-configuration-2026-09-23.html` | MO Home Campaign Configuration 2026-09-23 |
+| `reports/phone-system-comparison-2026-10-01.html` | Phone System Comparison 2026-10-01 |
 
 Homepage: `index.html` (report hub). Each report is a single self-contained HTML file. The only
 external request is the Inter webfont from Google Fonts. There is no build step and
